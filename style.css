@@ -50,6 +50,14 @@ body {
   }
 }
 
+@media (max-width: 400px)  {
+  .move-button {
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+  }
+}
+
 .result {
   font-size: 25px;
   font-weight: bold;
