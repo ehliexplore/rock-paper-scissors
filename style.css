@@ -56,9 +56,9 @@ body {
 
 @media (max-width: 400px)  {
   .move-button {
-    height: 50px;
-    width: 50px;
-    border-radius: 25px;
+    height: 65px;
+    width: 65px;
+    border-radius: 33px;
   }
   .title-and-buttons {
     margin-top: 0px;
