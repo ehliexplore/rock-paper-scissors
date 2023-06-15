@@ -48,6 +48,10 @@ body {
     width: 90px;
     border-radius: 45px;
   }
+  
+  .title-and-buttons {
+    margin-top: 10px;
+  }
 }
 
 @media (max-width: 400px)  {
@@ -55,6 +59,9 @@ body {
     height: 50px;
     width: 50px;
     border-radius: 25px;
+  }
+  .title-and-buttons {
+    margin-top: 0px;
   }
 }
 
